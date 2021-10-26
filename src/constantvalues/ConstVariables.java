@@ -13,4 +13,5 @@ public class ConstVariables {
 	public static final String testCaseSheetName = "Test Scenarios";
 	public static final int runMode = 3;
 	public static final int status = 2;
+	public String name;
 }
